@@ -1,2 +1,2 @@
 # PRODIGY_WD_01
-PRODIGY - Assignment 1
+PRODIGY - Assignment #1
